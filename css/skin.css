@@ -1,0 +1,447 @@
+
+
+html[data-theme="dark"] body,
+html[data-theme="dark"] .project-popup .project-detail .button-wrapper a:hover,
+html[data-theme="dark"] .mfp-fade.mfp-wrap.mfp-ready .mfp-content .mfp-close,
+html[data-theme="dark"] #sidebar-wrapper #head-sidebar .close-button:hover,
+html[data-theme="dark"] #sidebar-wrapper #body-sidebar ul li,
+html[data-theme="dark"] .contact-form .content .inner-contact-form .form-wrapper form .form-group input:focus,
+html[data-theme="dark"] .contact-form .content .inner-contact-form .form-wrapper form .form-group textarea:focus {
+  color: #fff;
+}
+
+html[data-theme="dark"] .project-popup,
+html[data-theme="dark"] #main-content-wrapper #fixed-hamburger-menu .hamburger-menu > span,
+html[data-theme="dark"] #main-content-wrapper #fixed-theme-switch-wrapper .theme-switch-wrapper .theme-switch .slider:before,
+html[data-theme="dark"] .skills .content .single-grouping-skill > ul > li.skill-body .single-skill .progress-wrapper {
+  background: #fff;
+}
+
+html[data-theme="dark"] .project-popup {
+  color: #333;
+}
+
+html[data-theme="dark"] .project-popup .project-name {
+  border-bottom-color: #eee;
+}
+
+html[data-theme="dark"] .project-popup .project-name,
+html[data-theme="dark"] .project-popup .project-detail .button-wrapper a {
+  color: #177f70;
+}
+
+html[data-theme="dark"] .project-popup .project-detail .button-wrapper a {
+  border: 1px solid #177d70;
+}
+
+html[data-theme="dark"] .project-popup .project-detail .button-wrapper a:hover:before {
+  border-color: #177d70;
+}
+
+html[data-theme="dark"] .project-popup .project-detail .button-wrapper a:hover {
+  background: #177d70;
+}
+
+html[data-theme="dark"] .mfp-fade.mfp-wrap.mfp-ready .mfp-content .mfp-close {
+  background: #1b8f79;
+}
+
+html[data-theme="dark"] #pre-load,
+html[data-theme="dark"] #sidebar-wrapper #head-sidebar,
+html[data-theme="dark"] #main-content-wrapper #bg-head-main-content {
+  background: #000;
+}
+
+html[data-theme="dark"] #pre-load .wrap .spinner > div,
+html[data-theme="dark"] .inner-body-content .title:before,
+html[data-theme="dark"] .main-content#home .body-content .inner-body-content .social-media a:hover,
+html[data-theme="dark"] .personal-info .content #profile-info-wrapper #profile-info .button-wrapper a.single-button:hover,
+html[data-theme="dark"] .skills .content .single-grouping-skill > ul > li.skill-body .single-skill .progress-wrapper .progress,
+html[data-theme="dark"] .download-resume a:hover,
+html[data-theme="dark"] .projects .content .inner-projects .project-items .single-item .item-wrapper .overlay .view-more:hover,
+html[data-theme="dark"] .contact-form .content .inner-contact-form .form-wrapper form .form-group:last-of-type button[type="submit"]:hover {
+/*  background: #06D6A0;*/
+    background: #a688fa;
+}
+
+html[data-theme="dark"] #sidebar-wrapper #head-sidebar .close-button,
+html[data-theme="dark"] #sidebar-wrapper #head-sidebar .passion,
+html[data-theme="dark"] .personal-info .content #profile-info-wrapper #profile-info p.description,
+html[data-theme="dark"] .personal-info .content #profile-info-wrapper #profile-info .profile ul.single-grouping-profile li .dash,
+html[data-theme="dark"] .personal-info .content #profile-info-wrapper #profile-info .profile ul.single-grouping-profile li .value,
+html[data-theme="dark"] .fun-facts .content .inner-fun-facts .single-fun-fact .fun-fact-value,
+html[data-theme="dark"] .services .content .single-service ul li.service-body,
+html[data-theme="dark"] .skills .content .single-grouping-skill > ul > li.skill-body .single-skill .percentage,
+html[data-theme="dark"] .work-experience .content .single-work-experience > ul > li.work-experience-body,
+html[data-theme="dark"] .contact-info .content .inner-contact-info .single-contact-info .contact-info-value,
+html[data-theme="dark"] .contact-form .content .inner-contact-form .form-wrapper form .form-group input,
+html[data-theme="dark"] .contact-form .content .inner-contact-form .form-wrapper form .form-group textarea {
+  color: #959cb6;
+}
+
+html[data-theme="dark"] .personal-info .content #profile-info-wrapper #profile-info p.description {
+  text-align: justify;
+}
+
+html[data-theme="dark"] #sidebar-wrapper #head-sidebar h5.name,
+html[data-theme="dark"] #sidebar-wrapper #body-sidebar ul li i,
+html[data-theme="dark"] .main-content .head-content .inner-top-head-content .main-title,
+html[data-theme="dark"] .main-content#home .body-content .inner-body-content .name-section > .name,
+html[data-theme="dark"] .main-content#home .body-content .inner-body-content .social-media a,
+html[data-theme="dark"] .personal-info .content #profile-info-wrapper #profile-info p.passion span,
+html[data-theme="dark"] .personal-info .content #profile-info-wrapper #profile-info .profile ul.single-grouping-profile li .label i,
+html[data-theme="dark"] .personal-info .content #profile-info-wrapper #profile-info .button-wrapper a.single-button,
+html[data-theme="dark"] .fun-facts .content .inner-fun-facts .single-fun-fact .fun-fact-icon i,
+html[data-theme="dark"] .fun-facts .content .inner-fun-facts .single-fun-fact .fun-fact-title i,
+html[data-theme="dark"] .services .content .single-service ul li.service-icon i,
+html[data-theme="dark"] .services .content .single-service ul li.service-title i,
+html[data-theme="dark"] .skills .content .single-grouping-skill > ul > li.skill-heading,
+html[data-theme="dark"] .skills .content .single-grouping-skill > ul > li.skill-body .single-skill .skill-name i,
+html[data-theme="dark"] .interests-and-hobbies .content .inner-interests-and-hobbies .single-interest-and-hobby .interest-and-hobby-icon i,
+html[data-theme="dark"] .interests-and-hobbies .content .inner-interests-and-hobbies .single-interest-and-hobby .interest-and-hobby-name i,
+html[data-theme="dark"] .download-resume a,
+html[data-theme="dark"] .projects .content .inner-projects .project-filters a.current,
+html[data-theme="dark"] .projects .content .inner-projects .project-filters a i,
+html[data-theme="dark"] .projects .content .inner-projects .project-items .single-item .item-wrapper .overlay .view-more,
+html[data-theme="dark"] .projects .content .inner-projects .project-items .single-item .item-wrapper .overlay .image-info .project-name,
+html[data-theme="dark"] .contact-info .content .inner-contact-info .single-contact-info .contact-info-icon i,
+html[data-theme="dark"] .contact-info .content .inner-contact-info .single-contact-info .contact-info-name i,
+html[data-theme="dark"] .contact-form .content .inner-contact-form .form-wrapper form .form-group:last-of-type button[type="submit"],
+html[data-theme="dark"] .work-experience .content .single-work-experience > ul > li.work-experience-name-with-place,
+html[data-theme="dark"] .work-experience .content .single-work-experience > ul > li.work-experience-when i,
+html[data-theme="dark"] .work-experience .content .single-work-experience > ul > li.work-experience-where i,
+html[data-theme="dark"] .education .content .single-education > ul > li.education-name-with-place,
+html[data-theme="dark"] .education .content .single-education > ul > li.education-when i,
+html[data-theme="dark"] .education .content .single-education > ul > li.education-where i {
+  color: #a688fa;
+}
+
+html[data-theme="dark"] #sidebar-wrapper #body-sidebar,
+html[data-theme="dark"] #main-content-wrapper #bg-body-main-content,
+html[data-theme="dark"] .main-content .body-content,
+html[data-theme="dark"] .main-content .body-content .inner-body-content {
+  background: #1a1625;
+}
+
+html[data-theme="dark"] #sidebar-wrapper #body-sidebar ul li {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2), 0 0 30px rgba(0, 0, 0, 0.2);
+  background: #2f2b3a;
+}
+
+html[data-theme="dark"] #sidebar-wrapper #body-sidebar ul li.active {
+  background: #a688fa;
+  color: #000;
+}
+
+html[data-theme="dark"] #sidebar-wrapper #body-sidebar ul li.active i {
+  color: #000;
+}
+
+html[data-theme="dark"] #main-content-wrapper > .overlay {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+html[data-theme="dark"] .inner-body-content .title:after,
+html[data-theme="dark"] .download-resume:before, 
+html[data-theme="dark"] .download-resume:after {
+  background: #32365a;
+}
+
+html[data-theme="dark"] .main-content#home .body-content .inner-body-content .passion-and-origin {
+  border-top: 1px solid #fff;
+}
+
+html[data-theme="dark"] .main-content#home .body-content .inner-body-content .passion-and-origin {
+  border-bottom: 1px solid #fff;
+}
+
+html[data-theme="dark"] .main-content#home .body-content .inner-body-content .social-media a,
+html[data-theme="dark"] .personal-info .content #profile-picture-wrapper #profile-picture:after,
+html[data-theme="dark"] .personal-info .content #profile-info-wrapper #profile-info .button-wrapper a.single-button,
+html[data-theme="dark"] .download-resume a,
+html[data-theme="dark"] .projects .content .inner-projects .project-items .single-item .item-wrapper .overlay .view-more,
+html[data-theme="dark"] .contact-form .content .inner-contact-form .form-wrapper form .form-group:last-of-type button[type="submit"] {
+  border: 1px solid #a688fa;
+}
+
+html[data-theme="dark"] .main-content#home .body-content .inner-body-content .social-media a:hover:before,
+html[data-theme="dark"] .personal-info .content #profile-info-wrapper #profile-info .button-wrapper a.single-button:hover:before,
+html[data-theme="dark"] .download-resume a:hover:before,
+html[data-theme="dark"] .projects .content .inner-projects .project-items .single-item .item-wrapper .overlay .view-more:hover:before,
+html[data-theme="dark"] .contact-form .content .inner-contact-form .form-wrapper form .form-group:last-of-type button[type="submit"]:hover:before {
+  border-color: #a688fa;
+}
+
+html[data-theme="dark"] .main-content#home .body-content .inner-body-content .social-media a:hover,
+html[data-theme="dark"] .personal-info .content #profile-info-wrapper #profile-info .button-wrapper a.single-button:hover,
+html[data-theme="dark"] .download-resume a:hover,
+html[data-theme="dark"] .projects .content .inner-projects .project-items .single-item .item-wrapper .overlay .view-more:hover,
+html[data-theme="dark"] .contact-form .content .inner-contact-form .form-wrapper form .form-group:last-of-type button[type="submit"]:hover {
+  color: #000;
+}
+
+html[data-theme="dark"] .fun-facts .content .inner-fun-facts,
+html[data-theme="dark"] .services .content .single-service ul,
+html[data-theme="dark"] .skills .content .single-grouping-skill > ul,
+html[data-theme="dark"] .work-experience .content .single-work-experience > ul,
+html[data-theme="dark"] .education .content .single-education > ul,
+html[data-theme="dark"] .interests-and-hobbies .content .inner-interests-and-hobbies,
+html[data-theme="dark"] .projects .content .inner-projects,
+html[data-theme="dark"] .contact-info .content .inner-contact-info {
+  background:  #2f2b3a;
+}
+
+html[data-theme="dark"] .projects .content .inner-projects .project-items .single-item .item-wrapper .overlay {
+  border: 1px solid #fff;
+}
+
+html[data-theme="dark"] .projects .content .inner-projects .project-items .single-item .item-wrapper .overlay {
+  background: rgba(28, 28, 47, 0.95);
+}
+
+html[data-theme="dark"] .contact-form .content .inner-contact-form .form-wrapper form .form-group:last-of-type button[type="submit"] {
+  background: transparent;
+}
+
+html[data-theme="dark"] .contact-form .content .inner-contact-form .form-wrapper form .form-group input,
+html[data-theme="dark"] .contact-form .content .inner-contact-form .form-wrapper form .form-group textarea {
+  border-bottom: 1px solid rgba(28, 28, 28, 0.75);
+}
+
+html[data-theme="dark"] .contact-form .content .inner-contact-form .form-wrapper form .form-group input,
+html[data-theme="dark"] .contact-form .content .inner-contact-form .form-wrapper form .form-group textarea {
+  background: #2f2b3a;
+}
+
+html[data-theme="dark"] .contact-form .content .inner-contact-form .form-wrapper form .form-group input:focus,
+html[data-theme="dark"] .contact-form .content .inner-contact-form .form-wrapper form .form-group textarea:focus {
+  border-bottom: 1px solid #a688fa;
+}
+
+html[data-theme="dark"] .main-content .body-content .inner-body-content {
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.25);
+}
+
+html[data-theme="dark"] #main-content-wrapper #fixed-theme-switch-wrapper .theme-switch-wrapper .theme-switch input:checked + .slider {
+  background: #2f2b3a;
+}
+
+html[data-theme="dark"] #main-content-wrapper #fixed-theme-switch-wrapper .theme-switch-wrapper .theme-switch .slider {
+  background: #ccc;
+}
+
+/*=================================================================*/
+/* [ LIGHT SKIN ]                                                  */
+/*=================================================================*/
+
+html[data-theme="light"] body,
+html[data-theme="light"] .project-popup,
+html[data-theme="light"] #sidebar-wrapper #body-sidebar ul li,
+html[data-theme="light"] .contact-form .content .inner-contact-form .form-wrapper form .form-group input:focus,
+html[data-theme="light"] .contact-form .content .inner-contact-form .form-wrapper form .form-group textarea:focus {
+  color: #333;
+}
+
+html[data-theme="light"] .project-popup,
+html[data-theme="light"] #main-content-wrapper #fixed-hamburger-menu .hamburger-menu > span,
+html[data-theme="light"] #main-content-wrapper #fixed-theme-switch-wrapper .theme-switch-wrapper .theme-switch .slider:before,
+html[data-theme="light"] .skills .content .single-grouping-skill > ul > li.skill-body .single-skill .progress-wrapper {
+  background: #fff;
+}
+
+html[data-theme="light"] .project-popup .project-name {
+  border-bottom-color: #eee;
+}
+
+html[data-theme="light"] #pre-load,
+html[data-theme="light"] .mfp-fade.mfp-wrap.mfp-ready .mfp-content .mfp-close,
+html[data-theme="light"] #sidebar-wrapper #head-sidebar,
+html[data-theme="light"] #main-content-wrapper #bg-head-main-content,
+html[data-theme="light"] .project-popup .project-detail .button-wrapper a:hover,
+html[data-theme="light"] .inner-body-content .title:before,
+html[data-theme="light"] .main-content#home .body-content .inner-body-content .social-media a:hover,
+html[data-theme="light"] .personal-info .content #profile-info-wrapper #profile-info .button-wrapper a.single-button:hover,
+html[data-theme="light"] .skills .content .single-grouping-skill > ul > li.skill-body .single-skill .progress-wrapper .progress,
+html[data-theme="light"] .download-resume a:hover,
+html[data-theme="light"] .projects .content .inner-projects .project-items .single-item .item-wrapper .overlay .view-more:hover,
+html[data-theme="light"] .contact-form .content .inner-contact-form .form-wrapper form .form-group:last-of-type button[type="submit"]:hover {
+  background: #00213e;
+}
+
+html[data-theme="light"] .personal-info .content #profile-info-wrapper #profile-info p.description,
+html[data-theme="light"] .personal-info .content #profile-info-wrapper #profile-info .profile ul.single-grouping-profile li .dash,
+html[data-theme="light"] .personal-info .content #profile-info-wrapper #profile-info .profile ul.single-grouping-profile li .value,
+html[data-theme="light"] .fun-facts .content .inner-fun-facts .single-fun-fact .fun-fact-value,
+html[data-theme="light"] .services .content .single-service ul li.service-body,
+html[data-theme="light"] .skills .content .single-grouping-skill > ul > li.skill-body .single-skill .percentage,
+html[data-theme="light"] .work-experience .content .single-work-experience > ul > li.work-experience-body,
+html[data-theme="light"] .contact-info .content .inner-contact-info .single-contact-info .contact-info-value,
+html[data-theme="light"] .contact-form .content .inner-contact-form .form-wrapper form .form-group input,
+html[data-theme="light"] .contact-form .content .inner-contact-form .form-wrapper form .form-group textarea {
+  color: #7b7b7b;
+}
+
+html[data-theme="light"] .personal-info .content #profile-info-wrapper #profile-info p.description {
+  text-align: justify;
+}
+
+html[data-theme="light"] .project-popup .project-name,
+html[data-theme="light"] .project-popup .project-detail .button-wrapper a,
+html[data-theme="light"] #sidebar-wrapper #body-sidebar ul li i,
+html[data-theme="light"] .main-content#home .body-content .inner-body-content .name-section > .name,
+html[data-theme="light"] .main-content#home .body-content .inner-body-content .social-media a,
+html[data-theme="light"] .personal-info .content #profile-info-wrapper #profile-info p.passion span,
+html[data-theme="light"] .personal-info .content #profile-info-wrapper #profile-info .profile ul.single-grouping-profile li .label i,
+html[data-theme="light"] .personal-info .content #profile-info-wrapper #profile-info .button-wrapper a.single-button,
+html[data-theme="light"] .fun-facts .content .inner-fun-facts .single-fun-fact .fun-fact-icon i,
+html[data-theme="light"] .fun-facts .content .inner-fun-facts .single-fun-fact .fun-fact-title i,
+html[data-theme="light"] .services .content .single-service ul li.service-icon i,
+html[data-theme="light"] .services .content .single-service ul li.service-title i,
+html[data-theme="light"] .skills .content .single-grouping-skill > ul > li.skill-heading,
+html[data-theme="light"] .skills .content .single-grouping-skill > ul > li.skill-body .single-skill .skill-name i,
+html[data-theme="light"] .interests-and-hobbies .content .inner-interests-and-hobbies .single-interest-and-hobby .interest-and-hobby-icon i,
+html[data-theme="light"] .interests-and-hobbies .content .inner-interests-and-hobbies .single-interest-and-hobby .interest-and-hobby-name i,
+html[data-theme="light"] .download-resume a,
+html[data-theme="light"] .projects .content .inner-projects .project-filters a.current,
+html[data-theme="light"] .projects .content .inner-projects .project-filters a i,
+html[data-theme="light"] .projects .content .inner-projects .project-items .single-item .item-wrapper .overlay .view-more,
+html[data-theme="light"] .projects .content .inner-projects .project-items .single-item .item-wrapper .overlay .image-info .project-name,
+html[data-theme="light"] .contact-info .content .inner-contact-info .single-contact-info .contact-info-icon i,
+html[data-theme="light"] .contact-info .content .inner-contact-info .single-contact-info .contact-info-name i,
+html[data-theme="light"] .contact-form .content .inner-contact-form .form-wrapper form .form-group:last-of-type button[type="submit"],
+html[data-theme="light"] .work-experience .content .single-work-experience > ul > li.work-experience-name-with-place,
+html[data-theme="light"] .work-experience .content .single-work-experience > ul > li.work-experience-when i,
+html[data-theme="light"] .work-experience .content .single-work-experience > ul > li.work-experience-where i,
+html[data-theme="light"] .education .content .single-education > ul > li.education-name-with-place,
+html[data-theme="light"] .education .content .single-education > ul > li.education-when i,
+html[data-theme="light"] .education .content .single-education > ul > li.education-where i {
+  color: #00213e;
+}
+
+html[data-theme="light"] #pre-load .wrap .spinner > div,
+html[data-theme="light"] #sidebar-wrapper #body-sidebar,
+html[data-theme="light"] #main-content-wrapper #bg-body-main-content,
+html[data-theme="light"] .main-content .body-content,
+html[data-theme="light"] .main-content .body-content .inner-body-content {
+  background: #fff;
+}
+
+html[data-theme="light"] #sidebar-wrapper #body-sidebar ul li {
+  box-shadow: 1px 5px 20px rgba(0, 0, 0, 0.15);
+  /* background: rgba(30, 127, 106, 0.075); */
+}
+
+html[data-theme="light"] #sidebar-wrapper #body-sidebar ul li.active {
+  background: #00213e;
+}
+
+html[data-theme="light"] #main-content-wrapper > .overlay {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+html[data-theme="light"] .inner-body-content .title:after,
+html[data-theme="light"] .download-resume:before, 
+html[data-theme="light"] .download-resume:after {
+  background: #ddd;
+}
+
+html[data-theme="light"] .main-content#home .body-content .inner-body-content .passion-and-origin {
+  border-top: 1px solid #444;
+}
+
+html[data-theme="light"] #sidebar-wrapper #head-sidebar .close-button,
+html[data-theme="light"] #sidebar-wrapper #head-sidebar .passion {
+  color: #fff;
+}
+
+html[data-theme="light"] .main-content#home .body-content .inner-body-content .name-section {
+  color: #555;
+}
+
+html[data-theme="light"] .main-content#home .body-content .inner-body-content .passion-and-origin {
+  border-bottom: 1px solid #444;
+}
+
+html[data-theme="light"] .project-popup .project-detail .button-wrapper a,
+html[data-theme="light"] .main-content#home .body-content .inner-body-content .social-media a,
+html[data-theme="light"] .personal-info .content #profile-picture-wrapper #profile-picture:after,
+html[data-theme="light"] .personal-info .content #profile-info-wrapper #profile-info .button-wrapper a.single-button,
+html[data-theme="light"] .download-resume a,
+html[data-theme="light"] .projects .content .inner-projects .project-items .single-item .item-wrapper .overlay .view-more,
+html[data-theme="light"] .contact-form .content .inner-contact-form .form-wrapper form .form-group:last-of-type button[type="submit"] {
+  border: 1px solid #00213e;
+}
+
+html[data-theme="light"] .project-popup .project-detail .button-wrapper a:hover:before,
+html[data-theme="light"] .main-content#home .body-content .inner-body-content .social-media a:hover:before,
+html[data-theme="light"] .personal-info .content #profile-info-wrapper #profile-info .button-wrapper a.single-button:hover:before,
+html[data-theme="light"] .download-resume a:hover:before,
+html[data-theme="light"] .projects .content .inner-projects .project-items .single-item .item-wrapper .overlay .view-more:hover:before,
+html[data-theme="light"] .contact-form .content .inner-contact-form .form-wrapper form .form-group:last-of-type button[type="submit"]:hover:before {
+  border-color: #00213e;
+}
+
+html[data-theme="light"] .mfp-fade.mfp-wrap.mfp-ready .mfp-content .mfp-close,
+html[data-theme="light"] #sidebar-wrapper #head-sidebar .close-button:hover,
+html[data-theme="light"] .project-popup .project-detail .button-wrapper a:hover,
+html[data-theme="light"] #sidebar-wrapper #head-sidebar h5.name,
+html[data-theme="light"] #sidebar-wrapper #body-sidebar ul li.active,
+html[data-theme="light"] #sidebar-wrapper #body-sidebar ul li.active i,
+html[data-theme="light"] .main-content .head-content .inner-top-head-content .main-title,
+html[data-theme="light"] .main-content#home .body-content .inner-body-content .social-media a:hover,
+html[data-theme="light"] .personal-info .content #profile-info-wrapper #profile-info .button-wrapper a.single-button:hover,
+html[data-theme="light"] .download-resume a:hover,
+html[data-theme="light"] .projects .content .inner-projects .project-items .single-item .item-wrapper .overlay .view-more:hover,
+html[data-theme="light"] .contact-form .content .inner-contact-form .form-wrapper form .form-group:last-of-type button[type="submit"]:hover {
+  color: #fff;
+}
+
+html[data-theme="light"] .fun-facts .content .inner-fun-facts,
+html[data-theme="light"] .services .content .single-service ul,
+html[data-theme="light"] .skills .content .single-grouping-skill > ul,
+html[data-theme="light"] .work-experience .content .single-work-experience > ul,
+html[data-theme="light"] .education .content .single-education > ul,
+html[data-theme="light"] .interests-and-hobbies .content .inner-interests-and-hobbies,
+html[data-theme="light"] .projects .content .inner-projects,
+html[data-theme="light"] .contact-info .content .inner-contact-info {
+  background: rgba(30, 127, 106, 0.075);
+}
+
+html[data-theme="light"] .contact-form .content .inner-contact-form .form-wrapper form .form-group input,
+html[data-theme="light"] .contact-form .content .inner-contact-form .form-wrapper form .form-group textarea {
+  background: rgba(30, 127, 106, 0.1);
+}
+
+html[data-theme="light"] .projects .content .inner-projects .project-items .single-item .item-wrapper .overlay {
+  border: 1px solid #bbb;
+}
+
+html[data-theme="light"] .projects .content .inner-projects .project-items .single-item .item-wrapper .overlay {
+  background: rgba(255, 255, 255, 0.85);
+}
+
+html[data-theme="light"] .contact-form .content .inner-contact-form .form-wrapper form .form-group:last-of-type button[type="submit"] {
+  background: transparent;
+}
+
+html[data-theme="light"] .contact-form .content .inner-contact-form .form-wrapper form .form-group input,
+html[data-theme="light"] .contact-form .content .inner-contact-form .form-wrapper form .form-group textarea {
+  border-bottom: 1px solid #ccc;
+}
+
+html[data-theme="light"] .contact-form .content .inner-contact-form .form-wrapper form .form-group input:focus,
+html[data-theme="light"] .contact-form .content .inner-contact-form .form-wrapper form .form-group textarea:focus {
+  border-bottom: 1px solid #00213e;
+}
+
+html[data-theme="light"] .main-content .body-content .inner-body-content {
+  box-shadow: 1px 5px 20px rgba(0, 0, 0, 0.15);
+}
+
+html[data-theme="light"] #main-content-wrapper #fixed-theme-switch-wrapper .theme-switch-wrapper .theme-switch input:checked + .slider {
+  background: #2f2b3a;
+}
+
+html[data-theme="light"] #main-content-wrapper #fixed-theme-switch-wrapper .theme-switch-wrapper .theme-switch .slider {
+  background: #ccc;
+}
